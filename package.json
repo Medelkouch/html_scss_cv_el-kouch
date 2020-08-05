@@ -1,0 +1,19 @@
+{
+  "name": "cv_el-kouch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bootstrap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile:sass": "node-sass -w sass -o css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "sass": "^1.26.2"
+  },
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
